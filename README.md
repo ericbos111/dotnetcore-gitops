@@ -170,7 +170,7 @@ git push
 
 ![image](https://github.com/user-attachments/assets/f9301fe8-74eb-42f2-927e-1d3397289f76)
 
-7. You can either wait 3 minutes for ArgoCD to automatically sync with latest changes of your repo, or you can manually click on sync on Argo
+6. You can either wait 3 minutes for ArgoCD to automatically sync with latest changes of your repo, or you can manually click on sync on Argo
 
 ![image](https://github.com/user-attachments/assets/f2d0b2b5-e954-4651-9c48-90df9ef85dbc)
 
